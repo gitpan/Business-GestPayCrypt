@@ -1,15 +1,23 @@
 Revision history for GestPayCrypt and GestPayCryptHS.
 
-0.4 (2004-05-13)
-================
+0.41 (2004-05-25)
+=================
+
+- Now the distribution unpack into a single directory
+- Add README
+- Add MANIFEST
+- Add META.yml
+
+0.40 (2004-05-13)
+=================
 
 - Renamed module to Business::GestPayCrypt for CPAN pubblication
 - Add function DESTROY
 - Changed license from GPL to Perl (GPL/Artistic)
 - Translated to english this revision history
 
-0.3 (2003-06-09)
-================
+0.30 (2003-06-09)
+=================
 Add compatibility for version 2.0 ( with Verified by Visa )
 
 - Add method GetCountry
@@ -40,8 +48,8 @@ Add compatibility for version 2.0 ( with Verified by Visa )
       with <% ... %>
 - In the example sample1ris.asp is not required the module CGI
 
-0.2 (2002-01-19)
-================
+0.20 (2002-01-19)
+=================
 - Add GestPayCryptHS
 - Add pod documentations
 - Add some examples in Cgi and Asp

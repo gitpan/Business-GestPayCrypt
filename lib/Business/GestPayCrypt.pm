@@ -17,7 +17,7 @@ package Business::GestPayCrypt;
 # the GNU General Public License or the Artistic License for more details.
 #
 
-$VERSION = '0.40';
+$VERSION = '0.41';
 
 =head1 NAME
 
